@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Dony Ariefianto</string>
+    <string name="post">Post</string>
+    <string name="followers">Followers</string>
+    <string name="folowwing">Following</string>
+    <string name="email">Email</string>
+    <string name="phone">Phone</string>
+</resources>

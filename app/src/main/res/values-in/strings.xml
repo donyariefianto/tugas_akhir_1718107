@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Dony Ariefianto</string>
+    <string name="post">Postingan</string>
+    <string name="followers">Pengikut</string>
+    <string name="folowwing">Mengikuti</string>
+    <string name="email">Email</string>
+    <string name="phone">Nomer</string>
+</resources>
